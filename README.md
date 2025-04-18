@@ -44,6 +44,7 @@ Moneymap/
 ├── middleware.js       # Middleware logic
 ├── package.json        # Project metadata & scripts
 
+---
 
 ## 🤖 AI Features 
 Smart expense prediction
@@ -53,6 +54,8 @@ Spending behavior analysis
 AI tips to optimize saving
 
 Salary Slip Making
+
+---
 
 ## 📌 Future Roadmap
 📱 Mobile app (React Native / Flutter)
@@ -65,9 +68,13 @@ Salary Slip Making
 
 💼 Business finance dashboard
 
+---
+
 ## 🤝 Contributing
 Pull requests are welcome!
 For major changes, please open an issue first to discuss what you would like to change.
+
+---
 
 
 

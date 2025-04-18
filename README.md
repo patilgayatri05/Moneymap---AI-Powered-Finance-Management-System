@@ -27,8 +27,32 @@
 | Deployment | Vercel / Node Server |
 | Other      | Prisma, PostCSS, ESLint |
 
-
 ---
+
+## 🌐 Project Structure
+php
+Copy
+Edit
+Moneymap/
+├── app/                # Pages and routes (Next.js)
+├── components/         # Reusable UI components
+├── data/               # Static/mock data
+├── lib/                # Helper functions
+├── prisma/             # Prisma schema and DB config
+├── public/             # Static files (images, icons)
+├── emails/             # Email templates (if used)
+├── middleware.js       # Middleware logic
+├── package.json        # Project metadata & scripts
+
+
+## 🤖 AI Features 
+Smart expense prediction
+
+Spending behavior analysis
+
+AI tips to optimize saving
+
+Salary Slip Making
 
 ## 📌 Future Roadmap
 📱 Mobile app (React Native / Flutter)
@@ -40,7 +64,6 @@
 🤖 AI chatbot for finance queries
 
 💼 Business finance dashboard
-
 
 ## 🤝 Contributing
 Pull requests are welcome!
